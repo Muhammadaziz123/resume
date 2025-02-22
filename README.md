@@ -1,40 +1,49 @@
-<h1 align="center">👋 Привет, я Muhammadaziz!</h1>
+<h1 align="center">Muhammadaziz Madakimov</h1>
 
 <p align="center">
-  🚀 Разработчик, увлечённый созданием удобных и эффективных веб-приложений.
+  Backend-разработчик | Python | Django | Docker | Redis | Celery
 </p>
 
 ---
 
-## 💡 Обо мне
-- 🏗 Работаю с **Django**, **JavaScript** и **PostgreSQL**
-- 🔍 Интересуюсь **веб-разработкой**, **автоматизацией** и **оптимизацией кода**
-- 🎯 Цель — постоянно развиваться и делать код чище  
-- 📌 Люблю работать с **чистым UI и удобными интерфейсами**
+## 📌 О себе
+- 🔹 Python-разработчик с опытом работы над коммерческими проектами
+- 🔹 Проходил стажировку, работал с **Docker, Redis, Celery**
+- 🔹 Разрабатывал backend для реального проекта
+- 🔹 Люблю чистый код и оптимизированные решения
 
 ---
 
-## 🛠️ Навыки и технологии
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+## 🛠️ Навыки
+- **Языки программирования:** Python (Django, FastAPI), JavaScript
+- **Базы данных:** PostgreSQL, SQLite
+- **Кэширование и очереди:** Redis, Celery
+- **Контейнеризация:** Docker, Docker Compose
+- **Другие технологии:** Git, Linux, REST API, WebSockets
 
 ---
 
-## 📊 GitHub Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadaziz123&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadaziz123&theme=radical" width="49%">
-</p>
+## 💼 Опыт работы
+### 🔹 Стажировка в [Название компании или проекта]
+- Разработал backend часть коммерческого проекта на **Django**
+- Настроил **Docker** для контейнеризации
+- Реализовал **Celery** для фоновых задач и асинхронной обработки данных
+- Использовал **Redis** для кэширования и хранения очередей
 
 ---
 
-## 📫 Связаться со мной
+## 📂 Проекты
+### 1️⃣ **Название проекта**
+- 📌 **Описание:** Кратко о проекте (что делал, какие технологии использовал)
+- 🔗 **Ссылка на GitHub:** [репозиторий](https://github.com/ваш_проект)
+
+### 2️⃣ **Другое важное приложение**
+- 📌 **Описание:** Что это за проект, какие технологии применялись
+- 🔗 **Ссылка на GitHub:** [репозиторий](https://github.com/ваш_проект)
+
+---
+
+## 📫 Контакты
 <p align="center">
   <a href="https://t.me/ваш_ник">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
